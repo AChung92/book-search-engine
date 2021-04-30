@@ -18,6 +18,6 @@ https://book-search-9.herokuapp.com/
 
 ## Screenshots
 
-![screenshot](assets/img/saved_books.png))
-![screenshot](assets/img/search_books.png))
-![screenshot](assets/img/signup.png))
+![screenshot](client/src/assets/img/saved_books.png))
+![screenshot](client/src/assets/img/search_books.png))
+![screenshot](client/src/assets/img/signup.png))
